@@ -1,6 +1,5 @@
 # ohannas - Coderbyte Task
-The application aims to create a phonebook application in NodeJS 
-and deploy it as a web application with Docker engine.
+The project aims to create a phonebook application with using React and deploy it as a web application with Docker engine.
  
 Configured a Dockerfile
 Port set and run as 3000 in Dockerfile to expose from local or VM.
